@@ -6,7 +6,7 @@
 
 ### App Walk-through
 
-<img src= "https://recordit.co/HICXKZ2HWz" width=200><br>
+<img src= "https://recordit.co/HICXKZ2HWz.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
